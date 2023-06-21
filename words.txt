@@ -1,0 +1,12 @@
+stó³,table
+ksi¹¿ka,book
+list,letter
+samochód,car
+wojna,war
+rower,bike
+komputer,computer
+siatkówka,volleyball
+koszykówka,basketball
+bieganie,running
+³y¿wiarstwo,ice skating
+

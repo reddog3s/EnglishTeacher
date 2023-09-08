@@ -7,7 +7,7 @@ App allowing user to learn English vocabulary and take test. It's created in sta
 * Start Test - starts test mode.
 * Stop - stop current mode.
 * Exit - exits app.
-* Polish - control, displays polish words.
+* Polish - control, displays Polish words.
 * English - control, displays english words and allows to type them.
 
 ## How it works?

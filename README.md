@@ -1,17 +1,17 @@
 # English Teacher
-Programme allowing to user to learn English vocabulary and take test. It's created in state machine architecture. Works under Labview 2022 Q3.
+App allowing user to learn English vocabulary and take test. It's created in state machine architecture. Works under Labview 2022 Q3.
 
-# Description of the programme
+# Description of the app
 ## GUI
 * Start Learning - starts learning mode.
 * Start Test - starts test mode.
 * Stop - stop current mode.
-* Exit - exits programme.
+* Exit - exits app.
 * Polish - control, displays polish words.
-* English - control, displaysp english words and allows to type them.
+* English - control, displays english words and allows to type them.
 
 ## How it works?
-After starting programme, user chooses one of the available modes by clicking Start Learning or Start Test button. After clicking both buttons are grayed out unitl Stop or Exit are pressed or mode ends.<br>
+After starting app, user chooses one of the available modes by clicking Start Learning or Start Test button. After clicking both buttons are grayed out unitl Stop or Exit are pressed or mode ends.<br>
 In Learning mode, controls display Polish and English words automatically in following order:
 1. Word in polish shows up.
 2. After 3 seconds translation to in English shows up.
